@@ -1,0 +1,13 @@
+Apriti sesamo
+
+This challenge with pretty interesting for me, as I have learnt something new ---- more than one thing actully 
+
+So let's get into the point , hint2 was extremly useful as emacs tends to  add ~ at the end of the files created by it.
+
+I suppose u have inspected the source code and find nothing and here the role of emacs thing comes 
+
+edit the url to http://verbal-sleep.picoctf.net:58281/impossibleLogin.php~
+
+Re inspect and here u r
+
+
