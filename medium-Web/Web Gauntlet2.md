@@ -97,6 +97,3 @@ Even when classic SQLi payloads are blocked, you can still:
 > 🧠 **Smart injection > brute force**
 > 👣 One step ahead, always.
 
----
-
-Let me know if you want this in PDF, a rendered markdown site, or as part of a full writeup portfolio!
